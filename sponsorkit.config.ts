@@ -11,7 +11,7 @@ export default defineConfig({
     login: 'sundowndev',
     type: 'user',
   },
-  opencollective: { },
+  opencollective: {},
   patreon: {},
 
   // Rendering configs
@@ -31,7 +31,7 @@ export default defineConfig({
     },
     {
       title: 'Sponsors',
-      monthlyDollars: 5,
+      monthlyDollars: 10,
       preset: presets.medium,
     },
     {
