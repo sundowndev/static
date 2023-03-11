@@ -19,11 +19,11 @@ export default defineConfig({
   formats: ['json', 'svg', 'png'],
   tiers: [
     // Past sponsors, currently only supports GitHub
-    {
+    /*{
       title: 'Past Sponsors',
       monthlyDollars: -1,
       preset: presets.xs,
-    },
+    },*/
     // Default tier
     {
       title: 'Backers',
